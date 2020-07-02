@@ -1,7 +1,7 @@
-# NLP_Gensim
+# Text Mining
 
-Using Spark Dataframes, and Natural Language Processing Library GENSIM, this algorithm was created to differentiate relevant and irrelevant advertisements.
-It involved creating TF-IDF Matrix to segregate the relevant and the Irrelevant ads
+Using Spark Dataframes,and various other functions like tokenizer, string indexer, vector assembler, a TF-IDF Matrix was created to differentiate relevant and irrelevant advertisements.
+
 
 This Repository Contains:
 
